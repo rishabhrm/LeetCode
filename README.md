@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rishabhrm/LeetCode/tree/master/0009-palindrome-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishabhrm/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
