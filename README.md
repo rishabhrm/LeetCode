@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rishabhrm/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rishabhrm/LeetCode/tree/master/0136-single-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishabhrm/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1694-make-sum-divisible-by-p](https://github.com/rishabhrm/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhrm/LeetCode/tree/master/0001-two-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/rishabhrm/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishabhrm/LeetCode/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/rishabhrm/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
